@@ -1,4 +1,4 @@
-#What are Fractal Mountains?
+# What are Fractal Mountains?
 
 Fractal mountains are computer generated shapes that have an appearance similar to real life mountains.
 What is a Fractal?
